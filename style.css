@@ -1,0 +1,108 @@
+.header{
+	color: grey;
+	border-style: solid;
+	width: 960px;
+	height:50px;
+	text-align: center;
+	font-size: 18px;
+	background-color: white;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	
+}
+.nav{
+	color: grey;
+	border-style: solid;
+	height: 50px;
+	width: 960px;
+	text-align: center;
+	font-size: 18px;
+	background-color: white;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+
+}
+.section{
+	border-style: solid;
+	color: grey;
+	width: 495px;
+	height: 310px;
+	float: left;
+	font-size: 18px;
+	background-color: white;
+	text-align: center;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	
+}
+
+.aside{
+	border-style: solid;	
+	color: grey;
+	width: 495px;
+	height: 310px;
+	float: right;
+	font-size: 18px;
+	background-color: white;
+	text-align: center;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+}
+
+.footer{
+	border-style: solid;
+	color: grey;
+	clear:both;
+	width: 960px;
+	height: 50px;
+	text-align: center;
+	background-color: white;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+}
+
+.article{
+	border-style: solid;
+	color: white;
+	text-align: center;
+	background-color: grey;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.kids{
+	border-style: solid;
+	color: grey;
+	background-color: white;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.body{
+	background-color: grey; 
+    margin: auto 10px;
+    width: auto;
+    height: 2000px;
+    font-family: Arial, Helvetica, Helvetica, sans-serif;
+    font-size: 18px;
+   
+}
+.container{
+	background-color: grey;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.p{
+	border-style: solid;
+	background-color: white;
+	color: grey;
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
